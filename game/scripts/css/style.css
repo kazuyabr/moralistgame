@@ -1,0 +1,23 @@
+body {
+    background: #2f2f2f;
+    margin: 0;
+    padding: 0;
+}
+
+.metamask{
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+}
+.metamask.login{
+    color: #FFF;
+    background-color: green;
+    font-weight: bolder;
+
+}
+
+.metamask.logout{
+    color: #FFF;
+    background-color: red;
+    font-weight: bolder;
+}

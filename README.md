@@ -1,1 +1,1 @@
-# moralistgame
+Tutorial sample: https://www.youtube.com/playlist?list=PLFPZ8ai7J-iSPmEwBqWAmNTE48_BxeJzH
